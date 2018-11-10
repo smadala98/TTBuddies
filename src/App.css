@@ -30,3 +30,7 @@
     transform: rotate(360deg);
   }
 }
+
+.rose {
+  height: 25vmin;
+}
